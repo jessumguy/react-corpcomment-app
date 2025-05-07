@@ -14,7 +14,8 @@
 2. Ways around Prop Drilling
 
 - {children}
-- Context API `src/components/contexts/FeedbackItemsContextProvider.tsx` and `src/componenets/lib/hooks.tsx`
+- Context API `src/contexts/FeedbackItemsContextProvider.tsx` and `src/componenets/lib/hooks.tsx`
+- Zustand `src/stores/feedbackItemsStore.ts`
 
 ### Source:
 
